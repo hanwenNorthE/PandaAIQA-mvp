@@ -1,4 +1,4 @@
-# PandaAIQA - Local Knowledge Question Answering System
+# PandaAIQA - Local Knowledge Question Answering System(This is an outdated version)
 
 PandaAIQA is a simple local knowledge question answering system that supports answering questions based on Retrieval Augmented Generation (RAG) technology.
 
